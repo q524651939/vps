@@ -1,0 +1,19 @@
+{
+  "settings":{
+    "clients":[
+      {
+        "id":"2abea741-3f56-4366-c22f-27b0ab4dd605",
+        "alterId":64
+      }
+    ]
+  },
+  "protocol":"vmess",
+  "port":80,
+  "streamSettings":{
+    "wsSettings":{
+      "path":"/",
+      "headers":{}
+    },
+    "network":"ws"
+  }
+}
